@@ -1,0 +1,13 @@
+﻿  compilation object save succeeded; see C:\Users\tomas\source\repos\Proejkt_studia\x64\Debug\Model_Viewer_3d\SamplePixelShader.cso
+  compilation object save succeeded; see C:\Users\tomas\source\repos\Proejkt_studia\x64\Debug\Model_Viewer_3d\SampleVertexShader.cso
+  pch.cpp
+  App.xaml.cpp
+  DeviceResources.cpp
+  Model_Viewer_3dMain.cpp
+  DirectXPage.xaml.cpp
+  SampleFpsTextRenderer.cpp
+  Sample3DSceneRenderer.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Trwa tworzenie biblioteki C:\Users\tomas\source\repos\Proejkt_studia\x64\Debug\Model_Viewer_3d\Model_Viewer_3d.lib i obiektu C:\Users\tomas\source\repos\Proejkt_studia\x64\Debug\Model_Viewer_3d\Model_Viewer_3d.exp
+  Model_Viewer_3d.vcxproj -> C:\Users\tomas\source\repos\Proejkt_studia\x64\Debug\Model_Viewer_3d\Model_Viewer_3d.exe
